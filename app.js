@@ -11,7 +11,7 @@ const INPUT_SIZE = 640;
 // 三種類別價值，必須對應 Roboflow / YOLO data.yaml 的類別順序。
 const CLASS_VALUES = {
   0: 100,
-  
+  1: 200
 
 };
 
